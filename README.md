@@ -2,6 +2,11 @@
 
 These scripts are designed to help you gather and analyze data from the American Soccer Analysis API to build a dashboard for monitoring Chattanooga Football Club's performance, especially after their transition from NISA to MLS Next Pro. Below is a brief overview of each script and its purpose:
 
+## Power BI Dashboard - `mlsnp_powerbi.pbix`
+
+The `mlsnp_powerbi.pbix` Power BI dashboard offers a visualization of Chattanooga Football Club's performance in MLS Next Pro, along with other teams in the league. It provides insights into team and player statistics, match outcomes, and comparative analysis. The dashboard utilizes data from the American Soccer Analysis API, enabling users to monitor key performance indicators and make data-driven decisions.
+
+
 ## `americansocceranalysis_api.ipynb`
 
 This notebook provides basic functionality to interact with the American Soccer Analysis API. It demonstrates how to make requests to the API endpoints and retrieve data regarding MLS Next Pro players.
